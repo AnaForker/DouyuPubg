@@ -1,0 +1,13 @@
+{
+  "name": "pubgr",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node pubgR.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.14.1",
+    "superagent": "^3.8.2",
+    "zhynet": "^1.0.8"
+  }
+}
